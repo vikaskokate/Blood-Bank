@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Popup Example</title>
+	<script>
+		function showPopup() {
+			// Create a new popup window
+			var popup = window.open("popup.html", "Popup", "width=400,height=300");
+
+			// Focus the popup window
+			popup.focus();
+		}
+	</script>
+</head>
+<body>
+	<button onclick="showPopup()">Show Popup</button>
+</body>
+</html>
