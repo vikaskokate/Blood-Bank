@@ -39,8 +39,6 @@ Blood Bank Donation System is a php based web project with both admin and user l
    <b> Username = </b> varunsardana004<br>
    <b>Password = </b> 123
    
-# If you like my project hit the star 🌟 button
-
 # Screenshots
 
 <h3> User Panel Images </h3>
